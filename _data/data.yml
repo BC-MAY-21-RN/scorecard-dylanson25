@@ -63,30 +63,12 @@ educationcomplete:
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences:
   - role: Lead Developer
-    time: 2015 - Present
-    company: Startup Hubs, San Francisco
+    time: 2018 - Present
+    company: UCOL-Bachillerato 16- Colima
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
-      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      architecto beatae vitae dicta sunt explicabo.
-        - Bullet point
-        - Bullet point
+      We developed a mobile app for student control, I was in charge of the design of the database and its interaction with the components of the application.
+    
 
-  - role: Senior Software Engineer
-    time: 2014 - 2015
-    company: Google, London
-    details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
 
 # Registra aquí tus habilidades técnicas, para level utiliza:
 # 20% para Novice
@@ -98,20 +80,17 @@ skills:
   title: Technical Skills # NO MODIFICAR
 
   toolset:
-    - name: Python
-      level: 20%
+    - name: Html
+      level: 100%
 
-    - name: PyTorch
-      level: 40%
-
-    - name: Tensorflow
+    - name: JavaScript
       level: 60%
 
-    - name: Caffe
-      level: 80%
+    - name: React-Native
+      level: 40%
 
-    - name: Matlab
-      level: 100%
+    - name: SQL
+      level: 80%
 
     - name: C/C++
       level: 40%
