@@ -12,14 +12,14 @@ sidebar:
   avatar: escudo.png # No modificar
 
   # Actualiza tus datos de contacto
-  email: name@brightcoders.com
+  email: Dvillarreal0@ucol.mx
   phone:
   website: # No agregar http://
-  linkedin: brightcoders
-  github: brightcoders
+  linkedin: 'VILLARREAL TOSCANO DYLAN IVAN'
+  github: Dylanson25
   gitlab:
   bitbucket:
-  twitter: '@BrightCoders'
+  twitter: '@Dylanson25'
   stack-overflow: # Number/Username, e.g. 123456/alandoe
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
@@ -31,9 +31,6 @@ sidebar:
 
     - idiom: Spanish
       level: Native # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
-
-    - idiom: German
-      level: Colloquial
 
   # Registra aquí tus soft skills. Agrega o elimina según sea necesario
   interests:
